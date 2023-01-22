@@ -1,0 +1,33 @@
+---
+componentName:  moevalent
+
+windowExpanding:    fullscreen
+
+
+strings:
+    productName:         "Moevalent GNU/Linux"
+    shortProductName:    MVGL
+    version:             Rolling
+    #shortVersion:        
+    versionedName:       Moevalent GNU/Linux
+    shortVersionedName:  MVGL
+    bootloaderEntryName: Moevalent
+    productUrl:          https://njb-fm.github.io/products/moevalent/
+    supportUrl:          https://njb-fm.github.io/products/moevalent/
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+style:
+   sidebarBackground:    "#FF81B5"
+   sidebarText:          "#FF0095"
+   sidebarTextSelect:    "#FFFFFF"
+   sidebarTextHighlight: "#FF0095"
+
+slideshow:               "show.qml"
+
+slideshowAPI: 1
+
+
