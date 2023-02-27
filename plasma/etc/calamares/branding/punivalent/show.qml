@@ -86,7 +86,7 @@ Presentation
             height: 485
             fillMode: Image.PreserveAspectFit
             smooth: true
-            source: "floorp.png"
+            source: "firefox.png"
         }
 
     }
