@@ -1,0 +1,33 @@
+---
+componentName:  univalent
+
+windowExpanding:    fullscreen
+
+
+strings:
+    productName:         "Univalent GNU/Linux"
+    shortProductName:    Univalent
+    version:             23.04
+    #shortVersion:        
+    versionedName:       Univalent GNU/Linux 23.04
+    shortVersionedName:  Univalent 23.04
+    bootloaderEntryName: Univalent
+    productUrl:          https://osdn.net/projects/univalentgnulinux
+    supportUrl:          https://osdn.net/projects/univalentgnulinux/forums
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
+   sidebarTextHighlight: "#00CED1"
+
+slideshow:               "show.qml"
+
+slideshowAPI: 1
+
+
