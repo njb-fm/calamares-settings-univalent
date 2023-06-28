@@ -1,4 +1,4 @@
-# uvgl-calam-cfg
-Calamares' config files for UVGL
+# calamares-settings-univalent
+Calamares' config files for UVE
 
-UVGL向けCalamares設定ファイル
+UVE向けCalamares設定ファイル
