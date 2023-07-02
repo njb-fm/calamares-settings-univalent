@@ -5,13 +5,13 @@ windowExpanding:    fullscreen
 
 
 strings:
-    productName:         "Univalent GNU/Linux"
+    productName:         "Univalent Versatile Enviroment"
     shortProductName:    Univalent
-    version:             23.06.1
+    version:             23.08
     #shortVersion:
-    versionedName:       Univalent GNU/Linux 23.06.1
-    shortVersionedName:  Univalent 23.06.1
-    bootloaderEntryName: Univalent
+    versionedName:       Univalent Versatile Environment 23.08
+    shortVersionedName:  Univalent 23.08
+    bootloaderEntryName: UVE
     productUrl:          https://osdn.net/projects/univalentgnulinux
     supportUrl:          https://osdn.net/projects/univalentgnulinux/forums
 

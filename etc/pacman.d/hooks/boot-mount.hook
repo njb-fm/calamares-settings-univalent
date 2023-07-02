@@ -1,0 +1,12 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Type = Package
+Target = calamares-settings-univalent
+
+[Action]
+Description = Enabling bootmnt dir service...
+When = PostTransaction
+Depends = calamares-settings-univalent
+Depends = systemd
+Exec = /bin/sh -c "systemctl enable univabootmnt"
