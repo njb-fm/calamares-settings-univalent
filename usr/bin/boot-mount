@@ -9,4 +9,4 @@ INSTMED="/dev/${ARRAY[10]}"
 mkdir /run/archiso/bootmnt
 mount ${INSTMED} /run/archiso/bootmnt
 
-systemctl disable univabootmnt
+systemctl disable boot-mount

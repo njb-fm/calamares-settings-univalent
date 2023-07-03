@@ -9,4 +9,4 @@ Description = Enabling bootmnt dir service...
 When = PostTransaction
 Depends = calamares-settings-univalent
 Depends = systemd
-Exec = /bin/sh -c "systemctl enable univabootmnt"
+Exec = /bin/sh -c "systemctl enable boot-mount"
