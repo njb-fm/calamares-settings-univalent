@@ -1,10 +1,10 @@
 [Unit]
-Description=univalent bootmnt dir
-After=network.target
+Description = univalent bootmnt dir
+After = network.target
 
 [Service]
-ExecStart=/bin/bash -c "/usr/bin/boot-mount"
-Type=oneshot
+ExecStart = /bin/bash -c "/usr/bin/boot-mount"
+Type = oneshot
 
 [Install]
-WantedBy=multi-user.target
+WantedBy = multi-user.target
