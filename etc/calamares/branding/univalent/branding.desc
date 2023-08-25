@@ -7,10 +7,10 @@ windowExpanding:    fullscreen
 strings:
     productName:         "Univalent Versatile Enviroment"
     shortProductName:    Univalent
-    version:             23.10
+    version:             23.09
     #shortVersion:
-    versionedName:       Univalent Versatile Environment 23.10
-    shortVersionedName:  Univalent 23.10
+    versionedName:       Univalent Versatile Environment 23.09
+    shortVersionedName:  Univalent 23.09
     bootloaderEntryName: UVE
     productUrl:          https://sourceforge.net/projects/univalentgnulinux
     supportUrl:          https://sourceforge.net/projects/univalentgnulinux/forum
