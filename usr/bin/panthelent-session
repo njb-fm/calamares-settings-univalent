@@ -1,0 +1,7 @@
+#!/bin/bash
+
+CHROOT="/tmp/$(ls /tmp | grep calamares-root)"
+
+if [ -f "${CHROOT}/usr/share/xsessions/pantheon.desktop" ]; then
+	sed -e "s/user-session.*/user-session=pantheon/g" -i ${CHROOT}/etc/lightdm/lightdm.conf
+fi
